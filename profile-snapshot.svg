@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Sneha Singh profile snapshot</title>
+<desc id="desc">A pink and purple profile dashboard showing 14 public repositories, third year, fifth semester, and Data Science with an AI and machine learning focus.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171126"/><stop offset="1" stop-color="#211631"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#ff8fc8"/><stop offset="1" stop-color="#a88bff"/></linearGradient>
+  <linearGradient id="pink"><stop stop-color="#ff8fc8"/><stop offset="1" stop-color="#c6a2ff"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#ffb8dc" opacity=".18"/></pattern>
+</defs>
+<rect x="2" y="2" width="1196" height="276" rx="25" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="276" rx="25" fill="url(#dots)"/>
+<text x="42" y="48" fill="#ffacd4" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">SNEHA'S PROFILE SNAPSHOT</text>
+<text x="1158" y="48" fill="#c9b6e8" font-family="Arial,sans-serif" font-size="14" text-anchor="end">WAKU WAKU • BUILDING IN PROGRESS</text>
+<g>
+ <rect x="38" y="76" width="270" height="148" rx="18" fill="#251a37" stroke="#ff8fc8" stroke-opacity=".8"/>
+ <text x="64" y="115" fill="#e9dceb" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">PUBLIC REPOSITORIES</text>
+ <text x="64" y="183" fill="#fff1f7" font-family="Arial,sans-serif" font-size="58" font-weight="700">14</text>
+ <circle cx="260" cy="111" r="12" fill="#ff8fc8" opacity=".95"/>
+ <path d="M254 111h12M260 105v12" stroke="#27152d" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<g>
+ <rect x="330" y="76" width="250" height="148" rx="18" fill="#251a37" stroke="#b28bff" stroke-opacity=".85"/>
+ <text x="356" y="115" fill="#e9dceb" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">ACADEMIC YEAR</text>
+ <text x="356" y="174" fill="#fff1f7" font-family="Arial,sans-serif" font-size="42" font-weight="700">3rd Year</text>
+ <text x="356" y="202" fill="#cbbbe3" font-family="Arial,sans-serif" font-size="14">VIT Vellore</text>
+</g>
+<g>
+ <rect x="602" y="76" width="250" height="148" rx="18" fill="#251a37" stroke="#ff8fc8" stroke-opacity=".8"/>
+ <text x="628" y="115" fill="#e9dceb" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">CURRENT STAGE</text>
+ <text x="628" y="174" fill="#fff1f7" font-family="Arial,sans-serif" font-size="42" font-weight="700">Semester 5</text>
+ <text x="628" y="202" fill="#cbbbe3" font-family="Arial,sans-serif" font-size="14">B.Tech • Data Science</text>
+</g>
+<g>
+ <rect x="874" y="76" width="288" height="148" rx="18" fill="#251a37" stroke="#b28bff" stroke-opacity=".85"/>
+ <text x="900" y="115" fill="#e9dceb" font-family="Arial,sans-serif" font-size="15" letter-spacing="1">FOCUS AREAS</text>
+ <text x="900" y="158" fill="#fff1f7" font-family="Arial,sans-serif" font-size="26" font-weight="700">Data Science</text>
+ <text x="900" y="191" fill="#ffacd4" font-family="Arial,sans-serif" font-size="18">AI  •  Machine Learning</text>
+</g>
+<path d="M42 248H1158" stroke="url(#edge)" stroke-opacity=".5"/>
+<text x="42" y="266" fill="#bfaed5" font-family="Arial,sans-serif" font-size="12">A snapshot of profile details and visible public work — not live GitHub API metrics.</text>
+</svg>
