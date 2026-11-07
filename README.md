@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/anya-hero-motion.gif" width="100%" alt="Animated Anya-themed hero with Sneha Singh typing letter by letter" />
+<img src="anya-hero-motion.gif" width="100%" alt="Anya-themed animated hero with Sneha Singh's name typing letter by letter" />
 
-<p align="center"><img src="assets/anya-cheer.gif" width="280" alt="Animated Anya cheering at her laptop" /></p>
+<br/>
 
 ### Data Science Student · AI & ML Enthusiast · Developer
 
@@ -19,6 +19,10 @@
 
 ## 🕵️ About Me
 
+<div align="center">
+<img src="anya-cheer.gif" width="230" alt="Anya cheering beside her laptop" />
+</div>
+
 Hey there! I'm **Sneha**, a B.Tech Data Science student at **VIT Vellore**. I'm interested in exploring data, building intelligent solutions and developing useful software. My public repositories cover machine learning, data drift analysis, air intelligence, GIS and web development.
 
 - 🎓 B.Tech in Data Science — VIT Vellore
@@ -28,12 +32,12 @@ Hey there! I'm **Sneha**, a B.Tech Data Science student at **VIT Vellore**. I'm 
 - 🌱 Learning by experimenting, building and improving
 
 <div align="center">
-<img src="assets/anya-laptop.gif" width="270" alt="Anya working at a laptop" />
+<img src="anya-laptop.gif" width="290" alt="Anya working at a laptop" />
 </div>
 
 ## ✨ Skill Intelligence File
 
-<img src="skills.svg" width="100%" alt="Skill badges" />
+<img src="skills.svg" width="100%" alt="Skill intelligence panel" />
 
 **Technologies evidenced in the visible repository descriptions/language labels:** Python, JavaScript, HTML, CSS, Node.js, Express.js, MongoDB, FastAPI, Jupyter Notebook, QGIS/GIS, PSI and statistical drift analysis. This list is intentionally limited to what is visible in the profile screenshots; it can be expanded when Sneha confirms additional skills.
 
@@ -81,10 +85,9 @@ All **14 public repositories** visible on Sneha's profile are included below. Ea
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sneha21-09&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff8fc8&icon_color=ffd66b&text_color=fff1f7&border_color=ff8fc8" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha21-09&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff8fc8&text_color=fff1f7" alt="Top languages" />
+<img src="profile-snapshot.svg" width="100%" alt="Sneha's verified profile snapshot" />
 
-<img src="https://streak-stats.demolab.com?user=Sneha21-09&theme=dark&hide_border=true&background=0D1117&ring=FF8FC8&fire=FFD66B&currStreakLabel=FF8FC8" alt="GitHub streak" />
+<sub>Profile facts shown above are based on the supplied GitHub profile screenshots; they are not live API statistics.</sub>
 
 </div>
 
@@ -92,7 +95,7 @@ All **14 public repositories** visible on Sneha's profile are included below. Ea
 
 <div align="center">
 
-<img src="profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="3D contribution skyline" />
+<img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Sneha's 3D GitHub contribution skyline" />
 
 </div>
 
@@ -106,7 +109,7 @@ All **14 public repositories** visible on Sneha's profile are included below. Ea
 
 *LinkedIn and public email are not displayed until Sneha shares the exact public URLs.*
 
-<img src="assets/anya-dev-loop.gif" width="270" alt="Anya coding animation" />
+<img src="anya-dev-loop.gif" width="250" alt="Anya coding animation" />
 
 **Code · Learn · Create · Grow**
 
