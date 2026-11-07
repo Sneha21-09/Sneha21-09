@@ -69,19 +69,25 @@
 
 ## 💌 Connect
 
-<table>
+<table width="100%">
 <tr>
-<td width="30%" align="center" valign="middle">
-<img src="./anya-cheer-transparent.gif?v=3" width="230" alt="Anya cheering with excitement" />
+<td width="38%" align="center" valign="middle">
+<img src="./anya-pointing.gif" width="280" alt="Anya pointing towards the connection links" />
 </td>
-<td width="70%" valign="middle">
-<img src="./connect.svg?v=4" width="100%" alt="Let's build something curious, useful and a little bit waku waku." />
+<td width="62%" valign="middle">
 
-<div align="center">
+<img src="./connect.svg" width="100%" alt="Let's build something legendary" />
 
-[**↗ Visit Sneha's GitHub profile**](https://github.com/Sneha21-09)
+<br/>
 
-</div>
+<a href="https://github.com/Sneha21-09"><img src="https://img.shields.io/badge/GitHub-Sneha21--09-ff8fc8?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<a href="SETUP.md"><img src="https://img.shields.io/badge/Email-add%20public%20address%20in%20SETUP.md-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email setup instructions" /></a>
+
+<a href="SETUP.md"><img src="https://img.shields.io/badge/LinkedIn-add%20profile%20URL%20in%20SETUP.md-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn setup instructions" /></a>
+
+<a href="SETUP.md"><img src="https://img.shields.io/badge/Instagram-optional%20profile%20URL%20in%20SETUP.md-f59e0b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram setup instructions" /></a>
+
 </td>
 </tr>
 </table>
@@ -90,7 +96,5 @@
 
 **Code · Learn · Create · Grow**  
 *“Waku waku! Keep learning, keep building!”* 💗
-
-<img src="./anya-cheer-transparent.gif?v=3" width="140" alt="Anya cheering" />
 
 </div>
