@@ -1,0 +1,16 @@
+# Repository inventory for Sneha21-09
+
+- [PRISM_GENAI_HACKATHON_2026](https://github.com/Sneha21-09/PRISM_GENAI_HACKATHON_2026) — GenAI hackathon repository. The screenshot shows JavaScript as its primary language; project details can be expanded from its README. (`JavaScript`)
+- [portfolio](https://github.com/Sneha21-09/portfolio) — Responsive personal portfolio showcasing projects, research, technical skills, experience and achievements in Data Science, Machine Learning and Software Development. (`HTML`)
+- [GIS-Land-Suitability-Analysis](https://github.com/Sneha21-09/GIS-Land-Suitability-Analysis) — QGIS-based GIS analysis demonstrating raster processing, vector analysis, slope classification and land-suitability mapping for Varanasi. (`QGIS · GIS`)
+- [VayuNetra](https://github.com/Sneha21-09/VayuNetra) — Hyperlocal Air Intelligence & Enforcement Platform. (`JavaScript`)
+- [StudentTaskTracker](https://github.com/Sneha21-09/StudentTaskTracker) — Full-stack student task and assignment tracker using HTML, CSS, JavaScript, Node.js, Express.js, MongoDB and JWT authentication. (`JavaScript · Node.js · Express · MongoDB`)
+- [Driftuara](https://github.com/Sneha21-09/Driftuara) — Explainable ML Drift Intelligence Platform using PSI, chi-square analysis, FastAPI and interactive visual dashboards. (`HTML · PSI · FastAPI`)
+- [psi-multicolumn-drift-detection](https://github.com/Sneha21-09/psi-multicolumn-drift-detection) — Multi-column drift detection using PSI, mean and variance shift, T-test and F-test; the repository description mentions feature-wise drift analysis. (`HTML · Statistics`)
+- [psi_early_warning_system](https://github.com/Sneha21-09/psi_early_warning_system) — Early-warning system for single-column numerical data drift using mean shift, variance shift, PSI, KL divergence and visualizations. (`HTML · Statistics`)
+- [Frontend-Calculator](https://github.com/Sneha21-09/Frontend-Calculator) — Multi-page frontend calculator project with landing, login and registration pages and interactive calculator operations. (`HTML · CSS · JavaScript`)
+- [RockSafeAI_Prototype](https://github.com/Sneha21-09/RockSafeAI_Prototype) — End-to-end ML prototype for rockfall risk prediction using vibration and acoustic time-series data, LSTM-based temporal modelling, zone-wise analysis and visualization. (`Python · ML`)
+- [RockSafeAIProject](https://github.com/Sneha21-09/RockSafeAIProject) — AI-based early-warning system predicting rockfall risk in open-pit mines by analysing micro-vibration and acoustic patterns to identify unstable zones. (`Jupyter Notebook · AI`)
+- [VIT-Web-clone-using-HTML-CSS](https://github.com/Sneha21-09/VIT-Web-clone-using-HTML-CSS) — HTML/CSS campus-tour website with images, logos and embedded video. (`HTML · CSS`)
+- [mini-project1-css-](https://github.com/Sneha21-09/mini-project1-css-) — A first mini project focused on CSS. (`CSS`)
+- [My-First-Portfolio](https://github.com/Sneha21-09/My-First-Portfolio) — Personal portfolio starter repository. Add a fuller description if the repository README contains more details. (`HTML`)
