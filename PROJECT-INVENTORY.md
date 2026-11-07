@@ -11,20 +11,13 @@ Technology labels are limited to repository language labels and descriptions vis
 ## Add a repository later
 
 1. Add the new project to the correct `<details>` section in `README.md`.
-2. Copy one `<tr> ... </tr>` project-card row and replace the repository name, URL, description and `<code>` technology tags.
+2. Duplicate one SVG from `repo-cards/`, update its title, category, description, accent and technology tags, then add a linked `<img>` entry to the two-column Repository Collection grid in `README.md`.
 3. If the row has only one project, keep the second empty `<td>` or pair it with another project.
 4. Update the repository count in `dashboard.svg` and `missions.svg` only after the public repository count changes.
 5. If it becomes one of the five featured projects, update its card in `missions.svg` too.
 
-### Copy-ready project card
+### Copy-ready repository card entry
 
 ```html
-<tr>
-  <td width="50%" valign="top">
-    <h3>✨ <a href="https://github.com/Sneha21-09/NEW-REPO">NEW-REPO</a></h3>
-    <p>One-sentence description of what the project does.</p>
-    <p><code>Technology 1</code> <code>Technology 2</code></p>
-  </td>
-  <td width="50%" valign="top"></td>
-</tr>
+<a href="https://github.com/Sneha21-09/NEW-REPO"><img src="./repo-cards/15-new-repo.svg" width="100%" alt="NEW-REPO project card" /></a>
 ```
