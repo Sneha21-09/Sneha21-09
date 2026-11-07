@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="740" height="205" viewBox="0 0 740 205" role="img" aria-label="VIT-Web-clone-using-HTML-CSS repository card">
+<defs><linearGradient id="border" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#83c5ff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#d8b8ec" opacity=".14"/></pattern></defs>
+<rect x="2" y="2" width="736" height="201" rx="23" fill="#151121" stroke="url(#border)" stroke-width="2"/><rect x="3" y="3" width="734" height="199" rx="22" fill="url(#dots)"/>
+<rect x="22" y="18" width="42" height="24" rx="12" fill="#83c5ff"/><text x="43" y="35" text-anchor="middle" fill="#191221" font-family="Verdana,Arial,sans-serif" font-size="12" font-weight="800">12</text>
+<circle cx="83" cy="104" r="58" fill="#21182e" stroke="#83c5ff" stroke-width="2"/><circle cx="83" cy="104" r="47" fill="#83c5ff" opacity=".12"/><text x="83" y="121" text-anchor="middle" font-family="Verdana,Arial,sans-serif" font-size="48" font-weight="700" fill="#83c5ff">⌂</text>
+<text x="166" y="51" fill="#83c5ff" font-family="Verdana,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">CAMPUS · WEB DESIGN</text>
+<text x="166" y="86" fill="#fff2fa" font-family="Verdana,Arial,sans-serif" font-size="21" font-weight="800">VIT-Web-clone-using-HTML-CSS</text>
+<text x="166" y="112" fill="#d8cddd" font-family="Verdana,Arial,sans-serif" font-size="13.5"><tspan x="166" dy="0">Campus-tour website with images, logos and embedded video.</tspan></text>
+<rect x="166" y="160" width="58" height="25" rx="8" fill="#30223e" stroke="#83c5ff" stroke-opacity=".55"/><text x="195.0" y="177" text-anchor="middle" fill="#f8eaf5" font-family="Verdana,Arial,sans-serif" font-size="10.5" font-weight="700">HTML</text><rect x="231" y="160" width="58" height="25" rx="8" fill="#30223e" stroke="#83c5ff" stroke-opacity=".55"/><text x="260.0" y="177" text-anchor="middle" fill="#f8eaf5" font-family="Verdana,Arial,sans-serif" font-size="10.5" font-weight="700">CSS</text>
+<path d="M690 28h20m-8 -8 8 8 -8 8" fill="none" stroke="#83c5ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
