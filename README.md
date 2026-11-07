@@ -12,23 +12,7 @@
 
 ## 🌸 About Sneha
 
-<table>
-<tr>
-<td width="68%" valign="middle">
-
-Hey! I'm **Sneha Singh**, a **B.Tech Data Science student at VIT Vellore**. I enjoy exploring data, understanding patterns and building useful software. My public projects span machine-learning experiments, data-drift analysis, air intelligence, GIS and web applications.
-
-- 🎓 **Program:** B.Tech in Data Science — VIT Vellore
-- 📚 **Academic stage:** 3rd Year · 5th Semester
-- 🧠 **Interests:** Data Science, AI / ML and analytical problem-solving
-- 🛠️ **Building:** Experiments and applications across data and web development
-
-</td>
-<td width="32%" align="center" valign="middle">
-<img src="./anya-laptop-transparent.gif?v=3" width="280" alt="Anya happily working at her laptop" />
-</td>
-</tr>
-</table>
+<img src="./about.svg?v=1" width="100%" alt="Anya-themed animated profile card introducing Sneha Singh, her studies and interests." />
 
 ## ✨ Skill Constellation
 
@@ -46,92 +30,35 @@ Hey! I'm **Sneha Singh**, a **B.Tech Data Science student at VIT Vellore**. I en
 
 ## 🗂️ Repository Collection
 
-A project-card view of the **14 public repositories** visible on Sneha's GitHub profile. Each title opens its repository. The collection is split by focus so new projects can be added without redesigning the page.
+**14 public repositories · 2 project lanes · one growing portfolio.** Select any illustrated card to open its GitHub repository. The collection is designed so new projects can be added as matching cards later.
 
-<details open>
-<summary><b>🧠 AI, Machine Learning, Data Science & GIS · 8 repositories</b></summary>
+### 🧠 Data, AI, Research & Spatial Intelligence
 
-<table>
-<tr><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/Driftuara">Driftuara</a></h3>
-<p>Explainable ML drift intelligence using PSI, chi-square analysis and interactive dashboards.</p>
-<p><code>PSI</code> <code>FastAPI</code> <code>ML</code> <code>Statistics</code></p>
-</td><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/RockSafeAIProject">RockSafeAIProject</a></h3>
-<p>AI early-warning for open-pit mine rockfall risk using micro-vibration and acoustic patterns.</p>
-<p><code>Jupyter</code> <code>Python</code> <code>AI</code></p>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/RockSafeAI_Prototype">RockSafeAI_Prototype</a></h3>
-<p>LSTM-based rockfall-risk prototype using vibration/acoustic time-series.</p>
-<p><code>Python</code> <code>LSTM</code></p>
-</td><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/psi-multicolumn-drift-detection">psi-multicolumn-drift-detection</a></h3>
-<p>Multi-column drift analysis with PSI, mean/variance shift, T-test and F-test.</p>
-<p><code>Statistics</code> <code>PSI</code></p>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/psi_early_warning_system">psi_early_warning_system</a></h3>
-<p>Single-column numerical drift early-warning using PSI and KL divergence.</p>
-<p><code>Statistics</code> <code>PSI</code></p>
-</td><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/PRISM_GENAI_HACKATHON_2026">PRISM_GENAI_HACKATHON_2026</a></h3>
-<p>GenAI hackathon project repository.</p>
-<p><code>JavaScript</code> <code>GenAI</code></p>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/GIS-Land-Suitability-Analysis">GIS-Land-Suitability-Analysis</a></h3>
-<p>QGIS raster/vector analysis and land-suitability mapping for Varanasi.</p>
-<p><code>QGIS</code> <code>GIS</code></p>
-</td><td width="50%" valign="top">
-<h3>🧠 <a href="https://github.com/Sneha21-09/VayuNetra">VayuNetra</a></h3>
-<p>Hyperlocal Air Intelligence &amp; Enforcement Platform.</p>
-<p><code>JavaScript</code> <code>Air Intelligence</code></p>
-</td></tr>
-</table>
+| <a href="https://github.com/Sneha21-09/Driftuara"><img src="./repo-cards/01-driftuara.svg" width="100%" alt="Driftuara project card" /></a> | <a href="https://github.com/Sneha21-09/RockSafeAIProject"><img src="./repo-cards/02-rocksafeaiproject.svg" width="100%" alt="RockSafeAIProject project card" /></a> |
+| --- | --- |
+| <a href="https://github.com/Sneha21-09/RockSafeAI_Prototype"><img src="./repo-cards/03-rocksafeai-prototype.svg" width="100%" alt="RockSafeAI_Prototype project card" /></a> | <a href="https://github.com/Sneha21-09/psi-multicolumn-drift-detection"><img src="./repo-cards/04-psi-multicolumn-drift-detection.svg" width="100%" alt="psi-multicolumn-drift-detection project card" /></a> |
+| --- | --- |
+| <a href="https://github.com/Sneha21-09/psi_early_warning_system"><img src="./repo-cards/05-psi-early-warning-system.svg" width="100%" alt="psi_early_warning_system project card" /></a> | <a href="https://github.com/Sneha21-09/PRISM_GENAI_HACKATHON_2026"><img src="./repo-cards/06-prism-genai-hackathon-2026.svg" width="100%" alt="PRISM_GENAI_HACKATHON_2026 project card" /></a> |
+| --- | --- |
+| <a href="https://github.com/Sneha21-09/GIS-Land-Suitability-Analysis"><img src="./repo-cards/07-gis-land-suitability-analysis.svg" width="100%" alt="GIS-Land-Suitability-Analysis project card" /></a> | <a href="https://github.com/Sneha21-09/VayuNetra"><img src="./repo-cards/08-vayunetra.svg" width="100%" alt="VayuNetra project card" /></a> |
+| --- | --- |
+| <a href="https://github.com/Sneha21-09/StudentTaskTracker"><img src="./repo-cards/09-studenttasktracker.svg" width="100%" alt="StudentTaskTracker project card" /></a> | <a href="https://github.com/Sneha21-09/portfolio"><img src="./repo-cards/10-portfolio.svg" width="100%" alt="portfolio project card" /></a> |
+| --- | --- |
+| <a href="https://github.com/Sneha21-09/Frontend-Calculator"><img src="./repo-cards/11-frontend-calculator.svg" width="100%" alt="Frontend-Calculator project card" /></a> | <a href="https://github.com/Sneha21-09/VIT-Web-clone-using-HTML-CSS"><img src="./repo-cards/12-vit-web-clone-using-html-css.svg" width="100%" alt="VIT-Web-clone-using-HTML-CSS project card" /></a> |
+| --- | --- |
 
-</details>
+### 💻 Web Development & Digital Builds
 
-<details>
-<summary><b>💻 Web Development & Applications · 6 repositories</b></summary>
-
-<table>
-<tr><td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Sneha21-09/StudentTaskTracker">StudentTaskTracker</a></h3>
-<p>Full-stack task and assignment tracker with JWT authentication.</p>
-<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
-</td><td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Sneha21-09/portfolio">portfolio</a></h3>
-<p>Responsive personal portfolio for projects, research, skills and achievements.</p>
-<p><code>HTML</code></p>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Sneha21-09/Frontend-Calculator">Frontend-Calculator</a></h3>
-<p>Multi-page calculator with landing, login and registration pages.</p>
-<p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-</td><td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Sneha21-09/VIT-Web-clone-using-HTML-CSS">VIT-Web-clone-using-HTML-CSS</a></h3>
-<p>Campus-tour website with images, logos and embedded video.</p>
-<p><code>HTML</code> <code>CSS</code></p>
-</td></tr>
-<tr><td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Sneha21-09/mini-project1-css-">mini-project1-css-</a></h3>
-<p>First mini project focused on CSS.</p>
-<p><code>CSS</code></p>
-</td><td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Sneha21-09/My-First-Portfolio">My-First-Portfolio</a></h3>
-<p>Personal portfolio starter project.</p>
-<p><code>Portfolio</code></p>
-</td></tr>
-</table>
-
-</details>
+| <a href="https://github.com/Sneha21-09/mini-project1-css-"><img src="./repo-cards/13-mini-project1-css.svg" width="100%" alt="mini-project1-css- project card" /></a> | <a href="https://github.com/Sneha21-09/My-First-Portfolio"><img src="./repo-cards/14-my-first-portfolio.svg" width="100%" alt="My-First-Portfolio project card" /></a> |
+| --- | --- |
 
 <div align="center">
 
-<a href="https://github.com/Sneha21-09?tab=repositories"><b>→ Explore all repositories on GitHub</b></a>
+<a href="https://github.com/Sneha21-09?tab=repositories"><b>✦ Explore all repositories on GitHub →</b></a>
 
 </div>
+
+<sub>New project? Duplicate any SVG in <code>repo-cards/</code>, update its title, description, accent and tags, then add its linked image to this two-column grid. Keep the project count in the dashboard in sync with the public profile.</sub>
 
 ## 🌃 Contribution Skyline
 
